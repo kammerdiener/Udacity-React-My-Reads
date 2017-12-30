@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {search, get} from './BooksAPI';
+import {search, get} from '../BooksAPI';
 import Book from './Book';
 import {Link} from 'react-router-dom';
 

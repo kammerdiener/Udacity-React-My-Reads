@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { update, get } from './BooksAPI';
+import { update, get } from '../BooksAPI';
 class Book extends Component {
   bookCoverSpecs = {
     width: 128,
