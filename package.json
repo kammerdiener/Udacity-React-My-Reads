@@ -6,7 +6,7 @@
     "react-router-dom": "4.3.1"
   },
   "devDependencies": {
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.4.4"
   },
   "scripts": {
     "start": "react-scripts start",
